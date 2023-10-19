@@ -1,4 +1,4 @@
-# safety_awareness_dashborad
+# Safety Awareness Dashborad
 
 ![image](https://github.com/hashinil/safety_awareness_dashborad/assets/33922245/a2fbe039-e7d0-4932-85da-d821f5b93257)
 
